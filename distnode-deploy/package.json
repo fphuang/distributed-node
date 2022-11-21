@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/tlhunter/distnode-deploy#readme",
   "dependencies": {
-    "fastify": "^3.2.0"
+    "fastify": "^3.29.4"
   },
   "devDependencies": {
     "node-fetch": "^2.6.0",
